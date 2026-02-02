@@ -45,7 +45,7 @@ I would like to express my gratitude to my colleagues, without whom preparing th
 * **Franciszek G**
 * **Jan G**
 * **Michał S**
-* **Kajetan Rs**
+* **Kajetan R**
 
 ---
 *Last update: 02.2026*
