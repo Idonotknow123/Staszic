@@ -41,10 +41,10 @@ Każdy katalog zawiera kod źródłowy (`main.cpp`) oraz treść zadania w forma
 
 Chciałbym podziękować moim kolegom, dzięki którym przygotowanie rozwiązań do tych zadań byłoby w znacznym stopniu utrudnione:
 
-* **Franciszek Gepner**
-* **Jan Gwiazda**
-* **Michał Szeliga**
-* **Kajetan Ramsza**
+* **Franciszek G**
+* **Jan G**
+* **Michał S**
+* **Kajetan R**
 
 ---
-*Ostatnia aktualizacja: 2026*
+*Ostatnia aktualizacja: 02.2026*
