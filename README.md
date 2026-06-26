@@ -39,13 +39,4 @@ Each directory contains the source code (`main.cpp`) and the task description in
 
 ---
 
-## 🤝 Acknowledgments
-I would like to express my gratitude to my colleagues, without whom preparing these solutions would have been significantly more difficult:
-
-* **Franciszek G**
-* **Jan G**
-* **Michał S**
-* **Kajetan R**
-
----
-*Last update: 02.2026*
+*Last update: 06.2026*
